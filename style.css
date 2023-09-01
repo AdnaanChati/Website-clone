@@ -1,6 +1,6 @@
 
 body {
-    background-color: #8888885d;
+    background-color: rgb(88, 88, 88);
     margin: 0;
 }
 
@@ -29,19 +29,52 @@ nav {
 #navbarlinks a {
     color: #888;
     text-decoration: none;
+
 }
 
 nav div a {
-    color: #888;
+    color: rgb(54, 54, 54);
     text-decoration: none;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
     font-size: 16px;
-    margin: 0px 40px;    
+    margin: 0px 40px;  
+    
+
 }
 
-p {
+p {;
     color: white;
     text-align: center;
 }
+
+#nintendoswitch {
+    position: relative;
+    width: 100%; height: 100%;
+}
+
+#kitsune {
+    position: relative;
+    width: 100%; height: 100%;
+
+}
+
+#backtoschool {
+    position: relative;
+    width: 100%; height: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
