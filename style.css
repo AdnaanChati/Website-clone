@@ -1,0 +1,47 @@
+
+body {
+    background-color: #8888885d;
+    margin: 0;
+}
+
+nav {
+    background-color: black;
+    padding: 15px 24px 10px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#navbarlogo {
+    width: 35px; height: 35px;
+    padding: 0px 40px; 
+}
+
+#carticon {
+    width: 23px; height: 19;
+}
+#searchicon {
+    width: 23px; height: 19;
+}
+
+
+
+
+#navbarlinks a {
+    color: #888;
+    text-decoration: none;
+}
+
+nav div a {
+    color: #888;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0px 40px;    
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+
+
